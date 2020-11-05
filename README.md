@@ -1,1 +1,1 @@
-# blog-ghost
+# blog
